@@ -18,6 +18,9 @@ AWS CloudTrail monitors and records account activity across your entire AWS infr
 ### AWS Identity and Access Management
 With AWS Identity and Access Management (IAM), you can specify who or what can access services and resources in AWS, centrally manage fine-grained permissions, and analyze access to refine permissions in AWS.
 
+![image](https://github.com/jessicacosta07/security-aws/assets/65916297/f793f899-d164-4b58-8cc4-e912ccde5ce5)
+
+
 References
 
 https://aws.amazon.com/pt/guardduty/?c=sc&sec=srvm
